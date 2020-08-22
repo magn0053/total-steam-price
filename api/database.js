@@ -1,7 +1,7 @@
-const   mongodb = require('mongodb')
-        ,mongoose = require('mongoose')
-        ,express = require('express')
-        ,router = express.Router();
+const mongodb = require('mongodb')
+    , mongoose = require('mongoose')
+    , express = require('express')
+    , router = express.Router();
 
 router.get('/getSteamGamesList', (req, res) => {
     res.send('Oi');

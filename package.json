@@ -4,7 +4,8 @@
   "description": "Show total price of all games on the Steam store",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/magn0053/total-steam-price/issues"
   },
-  "homepage": "https://github.com/magn0053/total-steam-price#readme"
+  "homepage": "https://github.com/magn0053/total-steam-price#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
