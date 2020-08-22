@@ -1,5 +1,5 @@
 # Total Steam Price
-View the total price of all products on the [Steam](https://store.steampowered.com) store page. This is an extension of a project where I intend to include a lot more features, such as filters. See the original work [here](https://beta.magn0053.dk/steam/steamcompare/totalPrice)
+View the total price of all products on the [Steam](https://store.steampowered.com) store page. This is an extension of a previous project. In this I intend to include a lot more features, such as filters. See the original work [here](https://beta.magn0053.dk/steam/steamcompare/totalPrice)
 
 
 # Testing

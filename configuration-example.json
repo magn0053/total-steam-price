@@ -1,0 +1,10 @@
+{
+    "steam": {
+        "apiKey": ""
+    },
+    "mongo": {
+        "username": "",
+        "password": "",
+        "url": ""
+    }
+}
