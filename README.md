@@ -7,7 +7,7 @@ For testing I'm running everything locally - to test POST requests I'm using [Po
 
 # How to contribute
 
-### Get the code
+## Get the code
 Fork/Download or Make a pull request to get started.
 Testing is run locally, start by making sure you have [NodeJS](https://www.nodejs.org) and [MongoDB](https://www.mongodb.com/) installed - always running latest stable build unless otherwise specified.
 
@@ -15,20 +15,20 @@ Next rename `configuration-example.json` to `configuration.json` and fill in the
 
 Setup for the local MongoDB will follow soon.
 
-### Install dependencies
-`
+## Install dependencies
+```
 npm install
-`
+```
 
-### Run the code
-##### For production
-`
+## Run the code
+### For production
+```
 npm start
-`
-##### For development
-`
+```
+### For development
+```
 npm test
-`
+```
 This will automatically restart the application on code updates, very useful for developement
 
 # Just a practial note
