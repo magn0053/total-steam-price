@@ -9,7 +9,7 @@ For testing I'm running everything locally - to test POST requests I'm using [Po
 
 ## Get the code
 Fork/Download or Make a pull request to get started.
-Testing is run locally, start by making sure you have [NodeJS](https://www.nodejs.org) and [MongoDB](https://www.mongodb.com/) installed - always running latest stable build unless otherwise specified.
+Testing is run locally, start by making sure you have [Node.JS](https://www.nodejs.org) and [MongoDB](https://www.mongodb.com/) installed - always running latest stable build unless otherwise specified.
 
 Next rename `configuration-example.json` to `configuration.json` and fill in the missing information.
 
@@ -33,3 +33,6 @@ This will automatically restart the application on code updates, very useful for
 
 # Just a practial note
 It's my first time really working open-source and using GitHub - any tips and tricks are very welcome!
+
+# License
+MIT. Copyright (c) Magnus Vestergaard
