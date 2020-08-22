@@ -1,0 +1,23 @@
+{
+  "name": "total-steam-price",
+  "version": "0.0.1",
+  "description": "Show total price of all games on the Steam store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magn0053/total-steam-price.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0"
+  },
+  "author": "Magn0053",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magn0053/total-steam-price/issues"
+  },
+  "homepage": "https://github.com/magn0053/total-steam-price#readme"
+}
