@@ -31,6 +31,10 @@ npm test
 ```
 This will automatically restart the application on code updates, very useful for developement
 
+## Register the first user
+
+To register the first user, create a new user using the registation code "firstUser" - this will be disabled whenever any other user exist. This is done at *yourdomain.com/dashboard/register*.
+
 # Just a practial note
 It's my first time really working open-source and using GitHub - any tips and tricks are very welcome!
 
